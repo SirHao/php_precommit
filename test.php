@@ -1,6 +1,8 @@
 <?php
-use topic;
-use his;
+use topic,infdsd;
+
+
+
 
 echo "af";
 phpinfo();
@@ -11,5 +13,6 @@ function a()
 }
 function b()
 {
+	echo 8989;
     return 1;
 }
