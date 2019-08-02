@@ -1,4 +1,7 @@
 <?php
+use topic;
+use his;
+
 echo "af";
 phpinfo();
 
