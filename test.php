@@ -3,12 +3,10 @@ use topic;
 use infdsd;
 
 echo " af";
- phpinfo();
-
-        function a()
-        {
-            return
-               1;
+phpinfo();
+function a()
+{
+            return   1;
         }
 function b()
 {
